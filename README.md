@@ -21,12 +21,19 @@ Afrodite é uma aplicação web de e-commerce voltada para a venda de itens de b
 ## 🛠️Tecnologias Utilizadas
 
   -Python 3
+  
   -Flask
+  
   -HTML5
+  
   -CSS3
+  
   -SQLite 
+  
   -Jinja2
+  
   -Bootstrap 
+  
 
 ## ⚙️Como rodar
 

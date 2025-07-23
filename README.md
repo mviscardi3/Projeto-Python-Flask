@@ -2,7 +2,7 @@
 
 Afrodite é uma aplicação web de e-commerce voltada para a venda de itens de bazar, como roupas, acessórios, objetos de decoração e muito mais.
 
-## Funcionalidades:
+## 🚀Funcionalidades:
 
   -Cadastro, edição e exclusão de produtos
 
@@ -18,7 +18,7 @@ Afrodite é uma aplicação web de e-commerce voltada para a venda de itens de b
 
   -Interface clara e moderna inspirada em brechós
 
-## Tecnologias Utilizadas
+## 🛠️Tecnologias Utilizadas
 
   -Python 3
   -Flask
@@ -28,11 +28,11 @@ Afrodite é uma aplicação web de e-commerce voltada para a venda de itens de b
   -Jinja2
   -Bootstrap 
 
-## Como rodar
+## ⚙️Como rodar
 
 1. Clone o repositório
 2. Instale as dependências
 3. Rode o servidor Flask
    
-## Licença
+## 📄Licença
 Este projeto está sob a licença MIT.

@@ -41,7 +41,7 @@ Afrodite é uma aplicação web de e-commerce voltada para a venda de itens de b
 2. Instale as dependências
 3. Rode o servidor Flask
 
-##💡Contribuições
+## 💡Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou pull request com melhorias, correções ou novas ideias.
    
